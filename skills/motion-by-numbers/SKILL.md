@@ -151,8 +151,11 @@ init`: it installs its own skills into your Claude setup.
 
 ## Credit
 
-Sections 1 to 8 grew from Florence's (@flxrnc) X article on motion design with Claude, which publishes every prompt
-and follow-up behind each animation. The reference file, the start-end-reason shot list, the three-worst-faults
-critic, the separate compositions per format, the last frame as poster and the stop on a missing asset came from
-rari's (@0xwhrrari) "Motion Engineering" article. The rest we learned making our own films. Rendered with HyperFrames
+The eight-line brief, the render rule, the easing, spring and duration numbers, fixing by frame number, the ban
+list, sound in code and keeping the receipts came from Florence's (@flxrnc) X article on motion design with Claude,
+which publishes every prompt and follow-up behind each animation. The reference file, the start-end-reason shot
+list, the three-worst-faults critic, the separate compositions per format, the last frame as poster and the stop on a
+missing asset came from rari's (@0xwhrrari) "Motion Engineering" article. The stepped keyframes worked out in Python
+and placed half a frame early, the counter fix, the spring started 3 frames early and the chart film that plays once
+are ours, learned making our own films. Rendered with HyperFrames
 by HeyGen.
