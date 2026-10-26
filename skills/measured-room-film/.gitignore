@@ -1,0 +1,8 @@
+assets/
+out/
+photos/
+renders/
+score.wav
+*.blend
+*.blend1
+__pycache__/
