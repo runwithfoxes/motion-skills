@@ -1,9 +1,9 @@
 ---
-name: measured-room-film
+name: 3d-room-with-claude-and-blender
 description: A real room built in Blender to the centimetre from phone photos and a tape measure, laid out with furniture at its true size, then shot as a 30 second film. The walls rise, each piece drops in with its size, a line of light turns the white model into the lit room, and the camera moves through it like a real one. Sound is made in code from the same frame numbers. Free, runs on a Mac mini. Use when someone wants a room, a shop, a stand or a space planned to real sizes and shown as a film, a "will it fit" check before buying furniture, or a product shown in a real room without a photo shoot.
 ---
 
-# Measured room film
+# Build a 3D room with Claude and Blender
 
 A room built in Blender from real measurements, with the furniture at its real size, filmed from the model. Our
 example is a living room turned into a games room for two ten year olds: 560 by 345 cm, 253 cm to the ceiling, with a
