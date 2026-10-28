@@ -1,5 +1,9 @@
 # Handwriting on video
 
+<a href="../../assets/films/handwriting-on-video.mp4"><img src="../../assets/stills/handwriting-on-video-play.jpg" alt="Play the film, with sound" width="640"></a>
+
+[Play the film, with sound](../../assets/films/handwriting-on-video.mp4).
+
 <img src="../../assets/gifs/handwriting-on-video.gif" alt="Paul talks to camera and white handwriting appears on the wall beside him: Work your way through it, questions? find me, practice" width="600">
 
 White pen writing drawn on the wall beside someone as they talk, each word landing as they say it.

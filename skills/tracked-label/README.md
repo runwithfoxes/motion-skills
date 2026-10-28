@@ -1,5 +1,9 @@
 # Tracked label
 
+<a href="../../assets/films/tracked-label.mp4"><img src="../../assets/stills/tracked-label-play.jpg" alt="Play the film" width="640"></a>
+
+[Play the film](../../assets/films/tracked-label.mp4).
+
 <img src="../../assets/gifs/tracked-label.gif" alt="A white dot on the fox's head with a line to a small card reading The Grumpy Fox, Run with Foxes, following him as he walks, across a cut" width="600">
 
 A label pinned to something moving in a real film, followed frame by frame through every shot, the job After

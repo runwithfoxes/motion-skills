@@ -1,5 +1,9 @@
 # Beat reel
 
+<a href="../../assets/films/beat-reel.mp4"><img src="../../assets/stills/beat-reel-play.jpg" alt="Play the film, with sound" width="480"></a>
+
+[Play the film, with sound](../../assets/films/beat-reel.mp4).
+
 <img src="../../assets/gifs/beat-reel.gif" alt="A field of 100 dots fills, five light up as 5%, the number rolls to 95%, and a different five light each quarter" width="420">
 
 A 15 second graphic reel where every change lands on a beat, and the music is made in code from the same beats.

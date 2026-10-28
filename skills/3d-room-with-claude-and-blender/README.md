@@ -1,5 +1,9 @@
 # Build a 3D room with Claude and Blender
 
+<a href="../../assets/films/3d-room-with-claude-and-blender.mp4"><img src="../../assets/stills/3d-room-with-claude-and-blender-play.jpg" alt="Play the film, with sound" width="640"></a>
+
+[Play the film, with sound](../../assets/films/3d-room-with-claude-and-blender.mp4).
+
 <img src="../../assets/gifs/3d-room-with-claude-and-blender.gif" alt="An empty white room seen from above, orange lines marking 560 and 345 cm, walls rising, a sofa and a pool table dropping in with their sizes, then the room lit in navy with a blue pool table" width="480">
 
 A real room built in Blender to the centimetre from phone photos and a tape measure, then shot as a 30 second film
