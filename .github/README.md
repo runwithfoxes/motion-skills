@@ -10,14 +10,15 @@ These came out of making short films for our own posts and our course. None of t
 
 ## The skills
 
-| Skill | What it makes |
+| Film | Skill and what it makes |
 |---|---|
-| [motion-by-numbers](../skills/motion-by-numbers) | Start here. The method behind all of them: a brief in eight lines with numbers in place of adjectives, every frame worked out from time, faults fixed by frame number, sound made in code. |
-| [beat-reel](../skills/beat-reel) | A 15 second graphic reel where every change lands on a beat, and the music is made from the same beats. |
-| [handwriting-on-video](../skills/handwriting-on-video) | White pen writing drawn on the wall beside someone as they talk, each word landing as they say it. |
-| [tracked-label](../skills/tracked-label) | A label pinned to something moving in real footage, followed through every shot: the After Effects tracking job, in code. |
+|  | **[motion-by-numbers](../skills/motion-by-numbers)**<br>Start here. The method behind all of them: a brief in eight lines with numbers in place of adjectives, every frame worked out from time, faults fixed by frame number, sound made in code. |
+| <a href="https://runwithfoxes.github.io/motion-skills/assets/films/beat-reel.mp4"><img src="../assets/stills/beat-reel-play.jpg" alt="Play the beat-reel film" width="240"></a> | **[beat-reel](../skills/beat-reel)**<br>A 15 second graphic reel where every change lands on a beat, and the music is made from the same beats. |
+| <a href="https://runwithfoxes.github.io/motion-skills/assets/films/handwriting-on-video.mp4"><img src="../assets/stills/handwriting-on-video-play.jpg" alt="Play the handwriting-on-video film" width="240"></a> | **[handwriting-on-video](../skills/handwriting-on-video)**<br>White pen writing drawn on the wall beside someone as they talk, each word landing as they say it. |
+| <a href="https://runwithfoxes.github.io/motion-skills/assets/films/tracked-label.mp4"><img src="../assets/stills/tracked-label-play.jpg" alt="Play the tracked-label film" width="240"></a> | **[tracked-label](../skills/tracked-label)**<br>A label pinned to something moving in real footage, followed through every shot: the After Effects tracking job, in code. |
+| <a href="https://runwithfoxes.github.io/motion-skills/assets/films/3d-room-with-claude-and-blender.mp4"><img src="../assets/stills/3d-room-with-claude-and-blender-play.jpg" alt="Play the 3d-room-with-claude-and-blender film" width="240"></a> | **[3d-room-with-claude-and-blender](../skills/3d-room-with-claude-and-blender)**<br>A real room built in Blender to the centimetre from phone photos and a tape measure, then shot as a 30 second film from the model. |
 
-Every skill folder has a short README with one of our films, and a SKILL.md with the method.
+Click a picture to play the film with sound. Every skill folder has a short README with the film, and a SKILL.md with the method.
 
 ## How to use them
 
